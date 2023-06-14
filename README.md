@@ -14,9 +14,10 @@ To run this application locally, follow these steps:
 
 ## Features
 
-- The application displays a heading, a text box for users to enter their tasks, and 2 functional buttons.
+- The application displays a heading, a text box for users to enter their tasks, and 4 functional buttons.
 - When the 'Add task' button is clicked, a task is added to the list below.
 - A 'Delete' button is next to the lists so that you can delete it when the task is completed.
+- Edit and Update buttons are used to edit the tasks if required and update them.
 - The elements are centered vertically on the page.
 
 ## Technologies Used
